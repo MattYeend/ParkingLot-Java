@@ -30,7 +30,7 @@ public class Car {
         return CarColor;
     }
     
-    public void setCarColor() {
+    public void setCarColor(String CarColor) {
         this.CarColor = CarColor;
     }
     
@@ -38,7 +38,7 @@ public class Car {
         return CarType;
     }
     
-    public void setCarType() {
+    public void setCarType(String CarType) {
         this.CarType = CarType;
     }
 }
