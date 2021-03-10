@@ -1,3 +1,18 @@
+/*
+    Author: MattYeend
+    Title: ParkingTicket
+    Package: Parking_lot
+    Date: 10/03/2021
+    Version: 1.0
+*/
+
+package com.mycompany.parking_lot;
+
+/**
+ *
+ * @author matty
+ */
+
 import java.time.format.DateTimeFormatter;
 
 public class ParkingTicket{

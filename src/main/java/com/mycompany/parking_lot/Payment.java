@@ -1,3 +1,18 @@
+/*
+    Author: MattYeend
+    Title: Payment
+    Package: Parking_lot
+    Date: 10/03/2021
+    Version: 1.0
+*/
+
+package com.mycompany.parking_lot;
+
+/**
+ *
+ * @author matty
+ */
+
 public class Payment{
 
     float HourAmount = 30;

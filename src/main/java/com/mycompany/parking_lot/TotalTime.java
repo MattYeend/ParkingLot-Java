@@ -1,3 +1,18 @@
+/*
+    Author: MattYeend
+    Title: TotalTime
+    Package: Parking_lot
+    Date: 10/03/2021
+    Version: 1.0
+*/
+
+package com.mycompany.parking_lot;
+
+/**
+ *
+ * @author matty
+ */
+
 public class TotalTime{
 
     public static int[] CalculateTime(String enterdate, String exitdate, String entertime, String exittime){
